@@ -1,0 +1,30 @@
+{
+  "industry": "스페셜티 커피 로스터리",
+  "brandName": "MOTE",
+  "descriptor": "COFFEE IN ITS QUIET FORM",
+  "location": "Seoul",
+  "founded": "2026",
+  "targetCustomer": "원두의 산지와 추출 경험을 중요하게 보는 25~40세 고객",
+  "positioning": "계절마다 세 가지 원두만 선보이는 소규모 로스터리",
+  "moodKeywords": ["grounded", "warm", "precise"],
+  "colors": {
+    "paper": "#ede8df",
+    "ink": "#231e19",
+    "muted": "#746d64",
+    "accent": "#a2472f",
+    "object": "#b7a087"
+  },
+  "heroStatement": "한 잔의 온도와 향이 오래 남도록 볶습니다.",
+  "workTitle": "이번 계절의 세 가지 원두.",
+  "workIntro": "산지의 개성을 가리지 않는 로스팅과 매일 마시기 편한 균형을 함께 찾습니다.",
+  "aboutWord": "MOTE",
+  "aboutTitle": "덜어낼수록,\n향은 선명해집니다.",
+  "aboutBody": "MOTE는 계절마다 세 가지 원두를 고르고 직접 볶습니다. 복잡한 설명보다 한 모금에서 분명하게 느껴지는 단맛과 질감을 중요하게 생각합니다.",
+  "contactTitle": "오늘의 원두를\n천천히 골라보세요.",
+  "contactEmail": "hello@mote-coffee.com",
+  "projects": [
+    {"title": "Nariño 01", "type": "Colombia", "year": "2026", "description": "붉은 사과의 단맛과 카카오의 긴 여운."},
+    {"title": "Guji 02", "type": "Ethiopia", "year": "2026", "description": "흰 꽃과 복숭아 향이 가볍게 이어지는 원두."},
+    {"title": "Kayon 03", "type": "Seasonal blend", "year": "2026", "description": "우유와 함께 마실 때 고소함이 살아나는 블렌드."}
+  ]
+}

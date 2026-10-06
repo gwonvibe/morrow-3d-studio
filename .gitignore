@@ -1,9 +1,4 @@
 node_modules/
 dist/
-.playwright-cli/
-.vercel/
-.versions/
-_workspace/
-output/
-public/font-options.html
 .DS_Store
+.playwright-cli/
