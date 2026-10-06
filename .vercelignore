@@ -1,0 +1,5 @@
+.playwright-cli/
+.versions/
+_workspace/
+output/
+public/font-options.html
